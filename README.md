@@ -74,7 +74,7 @@ This is the **Project Experience** section.
 - Quant Finance, Macro Econ, Business Strategy
 
 ### 🎲 **Clubs**
-- [Y-FoRM]([https://y-form.co.kr/)] (Financial Engineering & Risk Management Club, 2024.09-Present)
+- [Y-FoRM]([https://y-form.co.kr/) (Financial Engineering & Risk Management Club, 2024.09-Present)
 - [Ki-Woo-Hue](http://dongari.yonsei.ac.kr/sub/club/club_detail.asp?mode=view&idx=135&s_keyword=&s_cate=1015&s_display=&s_align=0) (Yonsei Go Club, 2020.09-2021.05)
   
 ---
