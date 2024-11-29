@@ -39,15 +39,16 @@ Yonsei University
   💰 1st Semester, 2020  
 
 ## 💡 Project Experience
-This is the **Project Experience** section.  
-**Evaluating IPO Performance using Sentimental Analysis** - Y-FoRM(2024.11-Present)  
-**Effects of Macroeconomic Variables on Public Guarantee Accidents** - Y-FoRM(2024.09 - 2024.11)  
-**Effect of Korean Discount factors on Korean stock valuation** - UC Berkeley(2024.01-2024.05)  
+This is the **Project Experience** section.    
+
+- **Evaluating IPO Performance using Sentimental Analysis** - Y-FoRM(2024.11-Present)  
+- **Effects of Macroeconomic Variables on Public Guarantee Accidents** - Y-FoRM(2024.09 - 2024.11)  
+- **Effect of Korean Discount factors on Korean stock valuation** - UC Berkeley(2024.01-2024.05)  
 
 ## 🚩 Leadership Experience  
-**Team Manager** - Yeonhui-dong Merchant X Codeit BruteForce Project(2020.03-2020.06)  
 **Team Leader** - Effect of Korean Discount factors on Korean Stock Valuation(2024.01 - 2024.05)  
 **Project Supervisor** - DeCal: Going Down the EECS Stack(2024.01-2024.05)  
+**Team Manager** - Yeonhui-dong Merchant X Codeit BruteForce Project(2020.03-2020.06)  
 
 ## 💻 **Skills and Interests** 
 
