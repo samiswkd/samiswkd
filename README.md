@@ -27,42 +27,41 @@ Yonsei University
 ---
 
 ### 🏅 **Honors / Awards**  
-- [**Agricultural Engineering Creativity Fair (AGENC FAIR)**](https://www.ksae.re.kr/notice/view.asp?key=232)  
-  🥉 *3rd Place* – Summer Semester, 2024 - Team. 구조대
+- **Honors**
+  💰 1st Semester, 2021
+  💰 1st Semester, 2020
 
 ---
 
-### 🎓 **Scholarships**  
-- **On-Campus Academic Scholarship**  
-  💰 1/3 – 1st Semester, 2021  
-  💰 1/3 – 1st Semester, 2020
+### 🎓 **Honors & Scholarships**  
+- **High Honors Scholarship**  
+  💰 2nd Semester, 2023
+  💰 1st Semester, 2020
 
 ## 💡 Project Experience
 This is the **Project Experience** section.
+**Evaluating IPO Performance using Sentimental Analysis** - Y-FoRM(2024.11-Present)
+**Effects of Macroeconomic Variables on Public Guarantee Accidents** - Y-FoRM(2024.09 - 2024.11)
+**Effect of Korean Discount factors on Korean stock valuation** - UC Berkeley(2024.01-2024.05)
 
 ## 🚩 Leadership Experience
-**Team Manager** - Rural Water Systems Engineering and Design, Bio-Environment Control Engineering Subject (2024.09 - Present)  
-**Team Manager** - SQRT Study Group (2024.09 - Present)  
-**Vice President** - Rural Systems Engineering (2021.03 - 2021.08)
-
-## 🚩 Volunteer work
-[SNU SR (SNU-JBNU Social Contribution)](https://www.youtube.com/watch?v=sGzbGOkxx3Y) (2024.05 - 2024.07)  
-[Chungbuk Science Gifted Mentoring](https://github.com/iseungsang01/github.io/blob/iseungsang01-patch-1/%EB%A9%98%ED%86%A0%EB%A7%81_%EC%BD%94%EB%93%9C/rhythmgame.py) (2024.07 - 2024.11)
+**Team Manager** - Yeonhui-dong Merchant X Codeit BruteForce Project(2020.03-2020.06)
+**Team Leader** - Effect of Korean Discount factors on Korean Stock Valuation(2024.01 - 2024.05)  
+**Project Supervisor** - DeCal: Going Down the EECS Stack(2024.01-2024.05)
 
 ## 💻 **Skills and Interests** 
 
 ### 🖥️ **Programming Skills**
 - **Advanced:** Python
-- **Intermediate:** SQL, HTML
-- **Beginner:** R, CSS, JS
+- **Intermediate:** R, SQL, HTML
+- **Beginner:** CSS, JS
 
 ### 🛠️ **Software**
 - **Softwares:**  
-  - Excel (including Excel Macro), PowerPoint, OBS(Open Broadcaster Software)
+  - Excel (including Excel Macro), PowerPoint, MS Word, OBS(Open Broadcaster Software)
 
 ### 🏅 **Certifications & Licenses**
-- 회관2
-- 잡다구리
+- Passed CAM Exam basic level(회계관리 2급)
 
 ### 🌍 **Languages**
 - **Korean:** Native  
