@@ -53,9 +53,8 @@ This is the **Project Experience** section.
 ## 💻 **Skills and Interests** 
 
 ### 🖥️ **Programming Skills**
-- **Advanced:** Python  
-- **Intermediate:** R, SQL, HTML  
-- **Beginner:** CSS, JS  
+- **Advanced:** Python, R
+- **Intermediate:** SQL, HTML, CSS, JS
 
 ### 🛠️ **Software**
 - **Softwares:**  
