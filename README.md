@@ -45,6 +45,16 @@ This is the **Project Experience** section.
 - **Effects of Macroeconomic Variables on Public Guarantee Accidents** - Y-FoRM(2024.09 - 2024.11)  
 - **Effect of Korean Discount factors on Korean stock valuation** - UC Berkeley(2024.01-2024.05)  
 
+---
+
+## 🚩 Volunteer work
+
+### 🛡️ Military Service
+ - Airman (Headquarter of Air Operation Group on 11th Fighter Wings) (2021.08 - 2023.05)
+<br><br>
+
+---
+
 ## 🚩 Leadership Experience  
 **Team Leader** - Effect of Korean Discount factors on Korean Stock Valuation(2024.01 - 2024.05)  
 **Project Supervisor** - DeCal: Going Down the EECS Stack(2024.01-2024.05)  
@@ -58,10 +68,15 @@ This is the **Project Experience** section.
 
 ### 🛠️ **Software**
 - **Softwares:**  
-  - Excel (including Excel Macro), PowerPoint, MS Word, OBS(Open Broadcaster Software)  
+  - Excel (including Excel Macro)
+  - PowerPoint
+  - MS Word
+  - OBS(Open Broadcaster Software)  
 
 ### 🏅 **Certifications & Licenses**
-- Passed CAM Exam basic level(회계관리 2급)  
+- Passed CAM Exam basic level(회계관리 2급)
+- Driver's License (Class 2 – Ordinary)
+
 
 ### 🌍 **Languages**
 - **Korean:** Native  
