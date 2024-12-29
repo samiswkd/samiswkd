@@ -1,4 +1,4 @@
-# **Sam(Seung Hoon) Lee**
+# **Seung Hoon(Sam) Lee**
 
 **Bachelor Student of Business Administration(Double Majoring in Economics)**  
 Yonsei University  
@@ -24,10 +24,16 @@ Yonsei University
 ### 🎓 **Sehwa High School**  
 📅 **Duration:** 2016.03 - 2019.02  
 
+### 🎓 **British International School Ho Chi Minh City**  
+📅 **Duration:** 2009.08 - 2011.12  
+
+### 🎓 **Singapore International School**  
+📅 **Duration:** 2008.08 - 2009.07  
+
 ---
 
 ### 🏅 **Honors / Awards**  
-- **Honors**
+- **Honors**  
   💰 1st Semester, 2021  
   💰 1st Semester, 2020  
 
@@ -38,10 +44,14 @@ Yonsei University
   💰 2nd Semester, 2023  
   💰 1st Semester, 2020  
 
+- **Humanity_100yrs Scholarship**  
+  💰 2nd Semester, 2024  
+  A full-funded Korean Government Scholarship based on Academic Performance
+
 ## 💡 Project Experience
 This is the **Project Experience** section.    
 
-- **Evaluating IPO Performance using Sentimental Analysis** - Y-FoRM(2024.11-Present)  
+- **Evaluating IPO Performance using Sentimental Analysis** - Y-FoRM(2024.11-2024.12)  
 - **Effects of Macroeconomic Variables on Public Guarantee Accidents** - Y-FoRM(2024.09 - 2024.11)  
 - **Effect of Korean Discount factors on Korean stock valuation** - UC Berkeley(2024.01-2024.05)  
 
@@ -56,6 +66,7 @@ This is the **Project Experience** section.
 ---
 
 ## 🚩 Leadership Experience  
+**Python Team Leader** - Y-FoRM(2024.12 - Present)  
 **Team Leader** - Effect of Korean Discount factors on Korean Stock Valuation(2024.01 - 2024.05)  
 **Project Supervisor** - DeCal: Going Down the EECS Stack(2024.01-2024.05)  
 **Team Manager** - Yeonhui-dong Merchant X Codeit BruteForce Project(2020.03-2020.06)  
@@ -84,7 +95,7 @@ This is the **Project Experience** section.
 - **Japanese, Chinese:** Elementary  
 
 ### 🎲 **Interest**
-- Piano, SF Books, Video Games, Taking a walk w/ my dog  
+- Piano, Books, Video Games, Taking a walk w/ my dog  
 - Quant Finance, Macro Econ, Business Strategy  
 
 ### 🎲 **Clubs**
