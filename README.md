@@ -1,7 +1,7 @@
 # **Seung Hoon(Sam) Lee**
 
-**Bachelor Student of Business Administration(Double Majoring in Economics)**  
-Yonsei University  
+**Bachelor Student(Biz & Econ) @ Yonsei University(2020.3 - Present)**  
+**Exchange Student(Econ) @ UC Berkeley (Spring 2024)**
 
 ---
 
@@ -66,10 +66,21 @@ This is the **Project Experience** section.
 ---
 
 ## 🚩 Leadership Experience  
-**Python Team Leader** - Y-FoRM(2024.12 - Present)  
-**Team Leader** - Effect of Korean Discount factors on Korean Stock Valuation(2024.01 - 2024.05)  
-**Project Supervisor** - DeCal: Going Down the EECS Stack(2024.01-2024.05)  
-**Team Manager** - Yeonhui-dong Merchant X Codeit BruteForce Project(2020.03-2020.06)  
+### **Python Team Leader**  
+- Y-FoRM(2024.12 - Present)  
+- Managed Python Education Session(Basic/Data Analysis/ML) and proceeded partnership with global hedge fund operator WorldQuant  
+
+### **Team Leader**  
+- Effect of Korean Discount factors on Korean Stock Valuation(2024.01 - 2024.05)  
+- Programmed methodologies regarding Valuation & Data Analysis, specifically Event Analysis  
+
+### **Project Supervisor**  
+- DeCal: Going Down the EECS Stack(2024.01-2024.05)  
+- Oversaw weekly projects regarding EECS(Electrical Engineering and Computer Sciences): Computer Theory, Machine Learning, Cryptography, etc  
+
+### **Team Manager**  
+- Yeonhui-dong Merchant X Codeit BruteForce Project(2020.03-2020.06)  
+- Scored #1 out of 11 teams for the semester and awarded scholarship from Programming platform Codeit  
 
 ## 💻 **Skills and Interests** 
 
