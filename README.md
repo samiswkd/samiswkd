@@ -19,7 +19,7 @@
 ### 🎓 **Yonsei University**  
 **Major:** Business, Economics(Double Major)  
 📅 **Duration:** 2020.03 - Present (Expected Graduation: February 2026)  
-📈 **Cumulative GPA:** 4.17 / 4.30  
+📈 **Cumulative GPA:** 4.13 / 4.30  
 
 ### 🎓 **Sehwa High School**  
 📅 **Duration:** 2016.03 - 2019.02  
